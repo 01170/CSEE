@@ -1,0 +1,23 @@
+Welcome!
+Here are my plans on what I hope to add to this ML model.
+
+-
+
+Collect stock data from last 30 days
+
+Collect demand data of company's product from last 30 days
+    How relevant is the product the company's selling?
+
+Collect social opinions on company's future from last 30 days
+    Gathered from company's tag on platforms like twitter
+    
+Collect company's relevancy data from last 30 days
+    How often are people looking for information on your company?
+   
+Collect public approval ratings
+    Look into CEO approval, employee approval and general co. approval
+    
+Create a means by which the model would source data from Robinhood
+    Collect analyst rating percentages of buy/sell
+
+-
