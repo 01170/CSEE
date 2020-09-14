@@ -10,6 +10,7 @@ Collect demand data of company's product from last 30 days
 
 Collect social opinions on company's future from last 30 days
     Gathered from company's tag on platforms like twitter
+    Sentiment analysis
     
 Collect company's relevancy data from last 30 days
     How often are people looking for information on your company?
