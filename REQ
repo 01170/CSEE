@@ -1,0 +1,155 @@
+General requirements for an IB EE in Computer Science
+
+-
+
+"A CS EE is meant to be an in-depth study about an aspect of computing. 
+It does not have to be limited to what's in the IB syllabus 
+(anyway if I'm being honest, the IB syllabus is very shallow when it comes to CS).
+Since CS is a G4 subject, you will be required to do some sort of investigation or experiment.
+You will be expected to analyze your  finding and come to some sort of conclusion.
+Be careful not to focus too much on social/ethical implications or it may become an ITGS EE,
+and don't go too deep into mathematical stuff or it may become a math EE."
+
+-
+
+"Your EE does not need to be an experiment. 
+CS EEs are a bit of an exception in the science group; 
+you are able to do what is essentially a literature review / research paper on a specific topic.
+For example if you're evaluating the effectiveness of a certain type of algorithm, 
+you could gather data on that yourself but it's entirely valid to do a theoretical analysis of the algorithms, 
+estimating why you may want to use one over the other for given reasons."
+
+-
+
+"It is also important that the work goes beyond a summary of journalistic views on a particular topic. It
+is not sufficient for the student simply to describe new advances and developments in computing.
+Students are expected to analyse their findings and consider the implications."
+
+-
+
+"An in-depth analysis of trends and advances in computing should include aspects
+of the theory of computer science, which would necessarily demonstrate a high degree of technical
+knowledge and understanding."
+
+-
+
+"Data for analysis may be generated from a program written by the student. This is often an appropriate
+method of investigation but the code itself, and its development, will not be rewarded under the
+assessment criteria."
+
+-
+
+"The topic chosen should allow the student to make a full appropriate analysis, putting forward his or
+her own point of view. Historical aspects of computing do not lend themselves to this treatment.
+However, there may sometimes be a place for summarizing developments that have occurred until
+now, to put the topic in perspective or to use as a basis for predicting the future."
+
+-
+
+"Although program fragments may be included in the body of the extended
+essay to support the design and the discussion, the full program code (including internal
+documentation) should appear in an appendix as evidence."
+
+-
+
+"Each line of code that appears in the body of
+the essay should count as two words when calculating the length of the essay, while any internal
+documentation of a program fragment should be ignored."
+
+-
+
+# Criterion A: research question
+Although the aim of the essay can best be defined in the form of a question, it may also be presented as
+a statement or proposition for discussion. It must be:
+• specific and sharply focused
+• appropriate to the particular area of computer science being explored
+• centred on computer science and not on peripheral issues such as the history of computing or the social implications of technology
+• stated clearly early on in the essay.
+
+-
+
+# Criterion B: introduction
+The introduction should relate the research question to existing subject knowledge, putting it into
+context. Basic computing knowledge can be assumed and it is not expected that students write lengthy
+sections explaining theory that is common knowledge or part of the syllabus of the computer science
+course.
+
+-
+
+# Criterion C: investigation
+The range and type of sources available will be influenced by various factors, but above all by the topic
+chosen. For example, if runs of a program are carried out to test an algorithm for efficiency against an
+alternative one then the data must be adequate.
+Any statistics collected should be reliable and relevant to the research question. It is also important to
+consult a large number of sources. Particular care should be taken in such a rapidly changing area to
+ensure that all sources (books, magazines and internet sites) used are up to date.
+
+-
+
+# Criterion D: knowledge and understanding of the topic studied
+The student is expected to be capable of coherently discussing the topic, hence demonstrating a sound
+knowledge of computing within the chosen area and an ability to explain academic concepts to a
+degree that shows a full understanding. The knowledge and concepts should go beyond those called for
+in the current Computer science guide.
+
+-
+
+# Criterion E: reasoned argument
+Students should be aware of the need to give their essays the backbone of a developing argument.
+Personal views should not simply be stated but need to be supported by reasoned argument or
+experimentation to persuade the reader of their validity. Straightforward descriptive or narrative
+accounts that lack analysis do not usually advance an argument and should be avoided.
+
+-
+
+# Criterion F: application of analytical and evaluative skills appropriate to the
+subject
+A computer science extended essay demands that the student applies logical, critical and creative
+thinking to a specific topic, as well as showing an appreciation of the consequences arising from
+technological development.
+
+-
+
+#  Criterion G: use of language appropriate to the subject
+The effective use of computer science terminology includes the appropriate use of technical
+vocabulary. Layman terms for computer parts and systems should not be used.
+
+-
+
+# Criterion H: conclusion
+“Consistent” is the key word here: the conclusion should develop out of the argument and not introduce
+new or extraneous matter. It should not repeat the material of the introduction; rather, it should present
+a new synthesis in light of the discussion. It should be evident from the conclusion that the student has
+fully understood the implications of the topic and is able to make a clear, independent evaluation.
+
+-
+
+# Criterion I: formal presentation
+This criterion relates to the extent to which the essay conforms to academic standards about the way in
+which research papers should be presented. The presentation of essays that omit a bibliography or that
+do not give references for quotations is deemed unacceptable (level 0). Essays that omit one of the
+required elements—title page, table of contents, page numbers—are deemed no better than satisfactory
+(maximum level 2), while essays that omit two of them are deemed poor at best (maximum level 1).
+Program code should generally be placed in an appendix. Where it needs to be included within the
+body of the essay, each line of code should count as two words when calculating the length of the
+essay, while any internal documentation of a program fragment should be ignored.
+
+-
+
+# Criterion J: abstract
+The abstract is judged on the clarity with which it presents an overview of the research and the essay,
+not on the quality of the research question itself, nor on the quality of the argument or the conclusions.
+
+-
+
+# Criterion K: holistic judgment
+Qualities that are rewarded under this criterion include the following.
+• Intellectual initiative: Ways of demonstrating this in computer science essays include using
+sources other than the internet and printed resources to gain information that could not have
+been found otherwise.
+• Insight and depth of understanding: These are most likely to be demonstrated as a
+consequence of detailed research, reflection that is thorough and well-informed, and reasoned
+argument that consistently and effectively addresses the research question.
+• Creativity: This can be shown in many ways, for example, by using an unusual but effective
+approach, by taking a controversial, but credible, stance or by extrapolating an extra logical
+step when forming a conclusion.
