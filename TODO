@@ -1,24 +1,39 @@
 Welcome!
+
 Here are my plans on what I hope to add to this ML model.
 
 -
 
-Collect stock data from last 30 days
+Manually add:
 
-Collect demand data of company's product from last 30 days
-    How relevant is the product the company's selling?
+# Stock market data from last 3 months.
 
-Collect social opinions on company's future from last 30 days
-    Gathered from company's tag on platforms like twitter
-    Sentiment analysis
+# Demand data of company's product from last 3 months.
+->    How relevant is the product the company's selling?
+
+# Social media/public opinions on company's future from last 3 months.
+->    Gathered from company's tag on platforms like twitter.
+->    Sentiment analysis.
     
-Collect company's relevancy data from last 30 days
-    How often are people looking for information on your company?
+# Company's relevancy data from last 3 months.
+->    How often are people looking for information on your company?
    
-Collect public approval ratings
-    Look into CEO approval, employee approval and general co. approval
+# General public approval ratings.
+->    Look into CEO approval, employee approval and general co. approval.
     
-Create a means by which the model would source data from Robinhood
-    Collect analyst rating percentages of buy/sell
+# Source general stock information from Robinhood.
+->    Collect analyst rating percentages of buy/sell.
+
+-
+
+Automation should take into account:
+
+# New developments in public opinion.
+->    Sentiment analysis.
+
+# New developments in approval ratings.
+->    CEO, indeed employee ratings/treatment, co. in general.
+
+# Developing stock market shifts.
 
 -
